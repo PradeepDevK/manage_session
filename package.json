@@ -1,0 +1,27 @@
+{
+  "name": "manage_session",
+  "version": "1.0.0",
+  "description": "Manage session using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PradeepDevK/manage_session.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PradeepDevK/manage_session/issues"
+  },
+  "homepage": "https://github.com/PradeepDevK/manage_session#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-redis": "^4.0.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "redis": "^2.8.0"
+  }
+}

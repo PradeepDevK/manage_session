@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/PradeepDevK/manage_session#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "connect-redis": "^4.0.3",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-session": "^1.17.0",
     "redis": "^2.8.0"
   }
